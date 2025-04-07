@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jul 26 13:40:11 2016
-Conventional linear Kalman filter 
+Conventional linear Kalman filter
 @author: biajia
 """
 
